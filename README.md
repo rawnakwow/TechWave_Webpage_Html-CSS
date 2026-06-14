@@ -1,6 +1,6 @@
 # 🎧 TechWave - Responsive Podcast Website
 
-A modern, high-fidelity, responsive podcast landing page built from scratch using clean, semantic **HTML5** and **CSS3**. This project strictly follows specified Figma alignment and layout criteria, featuring asymmetric layouts, a custom statistics display matrix, embedded streaming media nodes, and a pure CSS mobile interaction layer—**completely free of JavaScript dependencies.**
+A modern, high-fidelity, responsive podcast landing page built from scratch using clean, semantic **HTML5** and **CSS3**. This project strictly follows specified Figma alignment and layout criteria, featuring asymmetric layouts, a custom statistics display matrix, embedded streaming media nodes, and a pure CSS mobile interaction layer completely free of JavaScript dependencies.
 
 ---
 
@@ -12,7 +12,7 @@ A modern, high-fidelity, responsive podcast landing page built from scratch usin
 
 ## 🚀 Key Features Implemented
 
-### 1. Main Core Requirements (50 Marks)
+### 1. Main Core Requirements 
 *   **Semantic Architecture:** Built using clean HTML5 structural regions (`<header>`, `<nav>`, `<section>`, `<footer>`).
 *   **Responsive Desktop Navbar:** Left-aligned branding index, centered item navigation loops, and a high-contrast gradient button pinned exactly to the right.
 *   **Pure CSS Responsive Mobile Menu:** Hidden standard horizontal items bound to a stylized checkbox toggle. Converts to a full-screen vertical navigation view on mobile layout viewports with **strictly 0 JavaScript**.
@@ -22,7 +22,7 @@ A modern, high-fidelity, responsive podcast landing page built from scratch usin
 *   **Widescreen Episode Gallery:** Structured 3-column distribution layer featuring local thumbnail fallbacks (`assets/youtube-podcast.png`) and dedicated fluid element duration stamps.
 *   **Optimized Footer Module:** Fixed absolute background scaling tracking (`assets/footer-bg.png`) set via `object-fit: cover` to eliminate mobile layout breaks.
 
-### 2. Challenge Milestones Met (10 Marks)
+### 2. Challenge Milestones Met 
 *   **Host Showcase Layout Card:** Centered profile card architecture housing an isolated block image container, bold layout hierarchy handles, detailed operational context loops, and fluid social image linkages.
 *   **Smooth Layout Motion Transitions:** Added pure CSS scale adjustments and opacity state transitions (`transition: transform 0.2s ease`) applied directly across interactive button layers to improve user feedback.
 *   **No Generic Placeholders:** 100% of standard dummy placeholder content has been removed and replaced with explicit, high-value technical software development summaries.
