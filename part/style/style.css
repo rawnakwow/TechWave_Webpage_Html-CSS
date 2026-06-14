@@ -237,10 +237,10 @@ body {
 
 .btn-secondary {
   background: transparent;
-  border: 2px solid #00e5ff; /* Cyan color wrapper border */
+  border: 2px solid #00e5ff; 
   padding: 12px 28px;
   border-radius: 30px;
-  color: #00FF88; /* Vibrant text color matches image profile */
+  color: #00FF88; 
   font-size: 0.95rem;
   font-weight: bold;
   display: flex;
