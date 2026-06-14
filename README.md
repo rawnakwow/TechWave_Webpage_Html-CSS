@@ -5,7 +5,7 @@ A modern, high-fidelity, responsive podcast landing page built from scratch usin
 ---
 
 ## 🔗 Project Links
-*   **Live Deployment URL:** https://rawnakwow.github.io/TechWave_Webpage_Html-CSS/
+*   **Live Deployment URL:** teckwave-website.netlify.app
 *   **Public Repository:**  https://github.com/rawnakwow/TechWave_Webpage_Html-CSS.git
 
 ---
