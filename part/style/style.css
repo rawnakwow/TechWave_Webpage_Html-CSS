@@ -409,7 +409,7 @@ body {
   display: block;
 }
 
-/* Overlay covering image background area to center play bubble vector */
+
 .play-overlay {
   position: absolute;
   inset: 0;
@@ -419,7 +419,6 @@ body {
   justify-content: center;
 }
 
-/* Vivid background bubble overlay centered without any i tags */
 .play-button-circle {
   width: 44px;
   height: 44px;
@@ -429,7 +428,7 @@ body {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
 }
 
-/* Draws exact white inner triangle block natively inside circle layer */
+
 .play-button-circle::after {
   content: '';
   position: absolute;
