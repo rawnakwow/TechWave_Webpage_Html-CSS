@@ -134,7 +134,7 @@ body {
 .inner-mic-circle {
   width: 110px;
   height: 110px;
-  background-color: #251245;
+  background: linear-gradient(45deg, #F7E93F, #FB09B4, #9100F8);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -204,9 +204,9 @@ body {
 .btn-secondary {
   padding: 14px 32px;
   border-radius: 30px;
-  border: 1px solid white;
+  border: 1px solid green;
   background: transparent;
-  color: white;
+  color: green;
   font-weight: bold;
   cursor: pointer;
   transition: background 0.2s;
